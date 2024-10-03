@@ -15,3 +15,7 @@ Bu proje, Python ile JSON verilerini işlemek için iki farklı yaklaşımı iç
 Projeyi çalıştırmak için gerekli bağımlılıkları yüklemek için aşağıdaki komutu kullanın:
 ```bash
 pip install pandas
+
+## Katkıda Bulunanlar
+- Nurlan Məmmədli - Projenin geliştiricisi
+- [tolgabyk](https://github.com/tolgabyk) - Proje katkıcısı
