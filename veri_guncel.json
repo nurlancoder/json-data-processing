@@ -1,0 +1,17 @@
+[
+    {
+        "isim": "Ahmet",
+        "yas": 25,
+        "meslek": "Mühendis"
+    },
+    {
+        "isim": "Ayşe",
+        "yas": 32,
+        "meslek": "Doktor"
+    },
+    {
+        "isim": "Mehmet",
+        "yas": 45,
+        "meslek": "Öğretmen"
+    }
+]
