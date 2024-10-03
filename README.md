@@ -16,6 +16,3 @@ Projeyi çalıştırmak için gerekli bağımlılıkları yüklemek için aşağ
 ```bash
 pip install pandas
 
-## Katkıda Bulunanlar
-- Nurlan Məmmədli - Projenin geliştiricisi
-- [tolgabyk](https://github.com/tolgabyk) - Proje katkıcısı
